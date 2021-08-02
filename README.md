@@ -1,8 +1,7 @@
 Hey 👋, I'm Nurrain!
-Linkedin Badge Twitter Badge Instagram Badge Telegram Badge
 
 Great! You have arrived here   
-I'm a Senior Software Developer 💻 also a Content Creator ✍️
+I'm a Full Stack Developer 💻 also a Content Creator ✍️
 I am self-taught 🚀 and I love talking & writing about Web Development , & Software Development in general.
 
 I have been coding for over eight (8) years and am currently a Backend Fintech Engineer 💸 with experience in working with Core Banking Services and SOAP Services with an extensive knowledge of building USSD (Short Codes) 📱 SDPs and the working on Mobile Money frameworks having integrated 👨🏻‍💻 and worked with teams from the major Telecos in Ghana.
